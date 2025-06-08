@@ -7,4 +7,5 @@ PyPDF2
 sentence-transformers
 python-dotenv
 langchain_chroma
+langchain_community
 
