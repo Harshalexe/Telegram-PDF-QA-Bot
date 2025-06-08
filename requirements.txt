@@ -1,0 +1,10 @@
+python-telegram-bot
+langchain
+chromadb
+langchain_groq
+langchain_huggingface
+PyPDF2
+sentence-transformers
+python-dotenv
+langchain_chroma
+
