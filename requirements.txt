@@ -8,4 +8,6 @@ sentence-transformers
 python-dotenv
 langchain_chroma
 langchain_community
-
+requests
+gunicorn
+Flask
